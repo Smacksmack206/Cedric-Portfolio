@@ -35,3 +35,16 @@ Start time: 8:15
 Finish time: 8:45
 
 Actual time needed to complete: 30 min.
+
+## Feature four
+
+Number and name of feature: Skills-and-Experience
+
+
+Estimate of time needed to complete: 30 min
+
+Start time: 8:45
+
+Finish time: 9:25
+
+Actual time needed to complete: 40 min.
