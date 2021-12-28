@@ -83,37 +83,47 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "DevHub",
+        "title": "Ld. Customer Support",
+        "years": "10.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML, CSS, JS, SSL, Sequel"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
+          "HTML",
+          "CSS",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SSL",
+          "FTP",
+          "Sequel"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "DevHub",
+        "title": "Sales Operation Lead",
+        "years": "06.2019 - 10.2020",
         "mainTech": [
-          "Angular 7/8"
+          "HTML, CSS, JS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "DevHub",
+        "title": "Digital Strategy",
+        "years": "01.2019 - 06.2019",
+        "mainTech": [
+          "HTML, CSS, JS"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
         ]
       }
     ]
