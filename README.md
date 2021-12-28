@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Cedric's Portfolio
 
-Make it your own! 
+## Live Site - https://cedricvallieu-portfolio.netlify.app
