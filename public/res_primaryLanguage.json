@@ -11,12 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "The Recipe Generator",
+        "startDate": "2021",
+        "description": "Uses an API call when the user clicks on the “Generate” CTA, it gives a random generated recipe. Built with HTML, JavaScript, CSS, TheMealDB (Rest-API)",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/The-Recipe-Generator/Cover.jpeg",
+          "images/portfolio/The-Recipe-Generator/gen.png",
+          "images/portfolio/The-Recipe-Generator/ced.jpg",
+          "images/portfolio/The-Recipe-Generator/dav.jpg"
         ],
         "url": "",
         "technologies": [
