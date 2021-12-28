@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Cedric Vallieu",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Cedric’s Portfolio" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Smacksmack206",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/cedric-devhub/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
